@@ -6,4 +6,5 @@
 これらのデータは将来的には一般公開される予定であることをご留意ください。
 
 # 将棋本のサンプル
-第3部までの内容をReleaseタグから閲覧することが出来ます。
+第3部までの内容を閲覧することが出来ます。
+https://github.com/qhapaq-49/Kusokappa/releases/tag/wabidlc
